@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epsilon", "src\Epsilon\Epsilon.csproj", "{80FE6903-4AE0-4FF7-9DBA-F9941C37C2E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epsilon.Server", "src\Epsilon.Server\Epsilon.Server.csproj", "{B540A3DB-3BE3-4035-82AD-8AF6CF8C2FCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epsilon.Client", "src\Epsilon.Client\Epsilon.Client.csproj", "{8C72A2E8-F215-444A-988D-F0E5A0F9B5E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80FE6903-4AE0-4FF7-9DBA-F9941C37C2E7}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{80FE6903-4AE0-4FF7-9DBA-F9941C37C2E7}.Debug|x64.ActiveCfg = Debug|x64
+		{80FE6903-4AE0-4FF7-9DBA-F9941C37C2E7}.Debug|x64.Build.0 = Debug|x64
+		{80FE6903-4AE0-4FF7-9DBA-F9941C37C2E7}.Release|Any CPU.ActiveCfg = Release|x64
+		{80FE6903-4AE0-4FF7-9DBA-F9941C37C2E7}.Release|x64.ActiveCfg = Release|x64
+		{80FE6903-4AE0-4FF7-9DBA-F9941C37C2E7}.Release|x64.Build.0 = Release|x64
+		{B540A3DB-3BE3-4035-82AD-8AF6CF8C2FCB}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{B540A3DB-3BE3-4035-82AD-8AF6CF8C2FCB}.Debug|x64.ActiveCfg = Debug|x64
+		{B540A3DB-3BE3-4035-82AD-8AF6CF8C2FCB}.Debug|x64.Build.0 = Debug|x64
+		{B540A3DB-3BE3-4035-82AD-8AF6CF8C2FCB}.Release|Any CPU.ActiveCfg = Release|x64
+		{B540A3DB-3BE3-4035-82AD-8AF6CF8C2FCB}.Release|x64.ActiveCfg = Release|x64
+		{B540A3DB-3BE3-4035-82AD-8AF6CF8C2FCB}.Release|x64.Build.0 = Release|x64
+		{8C72A2E8-F215-444A-988D-F0E5A0F9B5E4}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{8C72A2E8-F215-444A-988D-F0E5A0F9B5E4}.Debug|x64.ActiveCfg = Debug|x64
+		{8C72A2E8-F215-444A-988D-F0E5A0F9B5E4}.Debug|x64.Build.0 = Debug|x64
+		{8C72A2E8-F215-444A-988D-F0E5A0F9B5E4}.Release|Any CPU.ActiveCfg = Release|x64
+		{8C72A2E8-F215-444A-988D-F0E5A0F9B5E4}.Release|x64.ActiveCfg = Release|x64
+		{8C72A2E8-F215-444A-988D-F0E5A0F9B5E4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DF79EF5-ABB8-4A7F-904F-C295A8930793}
+	EndGlobalSection
+EndGlobal
